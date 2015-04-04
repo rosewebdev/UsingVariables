@@ -18,8 +18,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
     // Insert code here...
-    CGFloat height;
-    CGFloat weight;
+    CGFloat height = 71.0;
+    CGFloat weight = 185.0;
     
     return YES;
 }
